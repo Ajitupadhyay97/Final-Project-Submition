@@ -1,0 +1,23 @@
+
+body{Background-color:#E5E5E5;}
+
+.main{padding:20px;Background-color:white;  border-radius:20px; min-height: 100%; Max-width:800px; margin: 0 auto;} 
+
+span, h1{font-size:50px;}
+.grid-container {column-count:2;
+		font-weight: bold;
+		padding:10px;
+				
+	}
+
+input, select {border-radius:7px;
+		width:95%;
+				border:solid 1px;
+ margin-bottom: 15px;
+}
+ .width{width:210%;} .Height{Height:150px;}
+
+input[type=button]{background-color:red; color:White; width:auto; padding:auto; font-size:25px; margin-left:75.5%;}
+
+ input{Height:40px;}
+.padding{padding:10px;}

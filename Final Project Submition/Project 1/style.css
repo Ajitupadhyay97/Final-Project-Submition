@@ -1,0 +1,16 @@
+body{ margin: 30px;}
+
+.main{ margin-left:15%;	  margin-right:15%; background-color: rgb(229 229 253); 
+	padding:20px; display:grid;  grid-template-columns: auto auto;}
+.main2{margin-left:15%;  margin-right:15%; background-color: rgb(229 229 253); 
+	padding:20px; }
+
+
+
+.c2{font-size:55px; text-align:right;  margin-top:40%; font-weight:bold;}
+.c21{font-size:22px; display:block;}
+.c3{font-size:85px;}
+.c4{font-size:16px; padding-top:20px;}
+.c5{font-size:32px; padding-top:50px;}
+footer{text-align:right; padding-top:120px; color;}
+a {text-decoration:none;}

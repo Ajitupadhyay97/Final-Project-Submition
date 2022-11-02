@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Inter", sans-serif;
+  box-sizing: border-box;
+  }
+
+  .main-container, footer {
+      max-width: 90%;margin: 0 auto;
+  }
+
+  .header{display: flex; justify-content: space-between; padding: 1rem; position: sticky; top: 0; background-color: white;}
+  .header_silde{display: flex; justify-content:space-around; gap: 20px; font-size: 20px;}
+  img{ width: 100%;}
+  .text1{display: flex; gap: 10px;  }
+  .image_text hr{ margin: 48px 0;}
+  .text_section p{ font-size: 14px; font-weight: 300; margin: 3% 0;  text-align: justify;}
+  footer{display: flex; justify-content: space-between; padding: 16px;font-size: 13px;}
+  footer ul{display: flex; list-style: none; font-size: large; gap: 27px;}
+
+
+  /*home page*/
+
+  .container,.container1 {display: flex; margin: 2% 0;}
+  .container img{border-radius: 50px;}
+  #home-text1 h3{font-size: 25px; font-weight: 300;}
+  #home-text1 h1{font-size:60px;   width: 650px;  padding: 20% 0 1% 0;}
+
+  .container1 {box-shadow: 0px 5px 4px rgba(221, 221, 221, .5 ); border: 1px solid #E2E2E2;}
+  #home-text2{width: 750px; margin: 5% 20px 0 2%; line-height: 1.2;}
+  .container1 p{font-size: 14.7px; font-weight: 300; padding: 1% 0; }
+  #button-1{display: flex; justify-content: space-between;}
+  #button-1 button{border-style: none; background-color: white; font-weight: bold; font-size: 15px;}
+
+  .card{max-width: 95%; margin: 0 auto; display: grid;  grid-template-columns: 320px 320px 320px; justify-content: space-between;}
+  .cardandtext{ border: 1px solid #E2E2E2; border-radius: 5px;}
+  .cardtext{margin: 5%;}
+  .cardtext h2{font-size: 20px; font-weight: 700; }
+  .cardtext p{ font-size: 14px; font-weight: 300; margin: 2% 0;} 
+
+  #section{max-width: 88%;margin: 2% auto; display: flex; 
+     box-shadow: 0px 5px 4px rgba(221, 221, 221, .5 ); border: 1px solid #E2E2E2; border-radius: 10px;}
+     #home-text3{width: 660px;}
+     #home-text3 p{font-size: 14.7px; font-weight: 300; padding: 2% 0;}
+     #home-text3 h2{padding-top:15% ;}
+     #button-2{display: flex; justify-content: space-between; max-width: 97%;}
+  #button-2 button{border-style: none; background-color: white; font-weight: 700; font-size: 15px;}
+  a:hover{border-bottom: 5px solid yellow;}
+  a{text-decoration: none;}
+  
+
+
+
+
+  

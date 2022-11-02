@@ -1,0 +1,17 @@
+
+*{margin:0; padding:0; font-size: 16px;  font-family: "Lato", sans-serif;}
+
+.Main1{background-image: url("image/image1.png");background-attachment: fixed;}
+.Main3{background-image: url("image/image2.png");background-attachment: fixed;}
+.Main5{background-image: url("image/image3.png");background-attachment: fixed;}
+.main1, .main3, .main5{min-height: 100%;position: relative;background-position: center;background-size: cover; display: flex;justify-content: center; align-items:center;}
+
+span{position: absolute;Background-color:black; font-size:27px;letter-spacing: 8px; font-size: 250%; color:white;padding:1%;}
+
+
+.Main2{background-color:#f4f4f4; text-align:center; padding:50px 80px;  line-height: 1.9; }
+#main2{background-color:#282e34; color:#ddd; text-align:center; padding:50px 80px;  line-height: 1.9; }
+h2{font-weight: bold;}
+
+
+
